@@ -1,0 +1,17 @@
+Linux dnsrec 5.10.0-26-amd64 #1 SMP Debian 5.10.197-1 (2023-09-29) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Fri Mar 28 10:00:55 2025 from 138.99.228.1
+
+suporte@dnsrec:~$ 
+
+suporte@dnsrec:~$ 
+
+suporte@dnsrec:~$ sudo -s
+
+[sudo] senha para suporte: 
